@@ -1,4 +1,4 @@
-# -About me
+# -Manush reddy
 # 💫 About Me:
 Data Analyst aspirant and Computer Science Engineering student with<br>strong foundations in Python, SQL, data analytics, and visualization.<br>Experienced in converting raw data into actionable insights through<br>academic and real-world projects. Proven leadership experience with a<br>strong analytical mindset, hands-on project exposure, and a keen interest in<br>data-driven decision-making.<br>
 
